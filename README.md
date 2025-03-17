@@ -140,6 +140,6 @@ Amigo_Secreto/
 Este proyecto está bajo la licencia [MIT](LICENSE). Para más detalles, consulta el archivo `LICENSE` en el repositorio.  
 
 Autora
-MaeLynn
+Mealy Rios
 Desarrolladora entusiasta de aplicaciones interactivas.
 [GitHub](https://github.com/MaeLynn1)
